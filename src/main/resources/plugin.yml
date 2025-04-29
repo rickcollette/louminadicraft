@@ -1,0 +1,15 @@
+commands:
+  warp:
+    description: Warp between LouMinadiCraft worlds
+    usage: /warp <conditions|moneyshot|billyd|existential>
+  biomeinfo:
+    description: Shows current biome
+    usage: /biomeinfo
+  riftlocate:
+    description: Locate nearest Rift
+    usage: /riftlocate
+  riftupgrade:
+    description: Upgrade your Rift Amulet
+    usage: /riftupgrade
+  lorebook:
+    description: Receive your Fragments of Existence Lore Book
